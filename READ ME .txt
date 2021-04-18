@@ -1,0 +1,5 @@
+INSTAL REQUIRE PACKAGE!
+	
+RUN
+
+python social_distance_detector.py --input pedestrians.mp4
