@@ -1,4 +1,8 @@
 INSTAL REQUIRE PACKAGE!
+
+Download yolov3.weights BELOW LINK
+      https://drive.google.com/file/d/1Usw3qNx7wy2ysGvOGlpOhISj3j-6G02b/view?usp=sharing
+SAVE INSIDE 
 	
 RUN
 
